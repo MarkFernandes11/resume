@@ -1,2 +1,2 @@
 # resume
-My Resume using Web Development technologies
+My Resume using HTML
